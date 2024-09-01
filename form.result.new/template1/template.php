@@ -100,7 +100,7 @@ if ($arResult["isFormErrors"] == "Y"):?><?=$arResult["FORM_ERRORS_TEXT"];?><?end
 				
 	</div>	
 
-
+<?=$arResult["FORM_FOOTER"]?>
 </div>
 
 
